@@ -1,0 +1,13 @@
+selenium
+pandas
+plotly
+webdriver-manager
+beautifulsoup4
+lxml
+flask
+wordcloud
+STOPWORDS
+GenChart
+wheel
+
+
